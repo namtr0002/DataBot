@@ -1,4 +1,6 @@
 {
 "version":"1.0.0",
-"author":"Madara"
+"author":"Madara",
+"telegram":"https://t.me/@ThMadara",
+"bio":"https://instabio.cc/Madara"
 }
